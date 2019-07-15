@@ -28,7 +28,7 @@ public class MainCalc extends JFrame
 
         JFrame frame = new JFrame("Калькулятор");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setResizable(false);
+        frame.setResizable(true);
         frame.setPreferredSize(new Dimension(250, 250));
 
 
